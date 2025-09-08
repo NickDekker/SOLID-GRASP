@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace L.Models;
 
-public class Vrijwilliger : IMedewerker
+public class Vrijwilliger : IOrganisatieLid
 {
     public Vrijwilliger(string naam, string woonplaats)
     {
@@ -17,13 +17,4 @@ public class Vrijwilliger : IMedewerker
     public string Naam { get; set; }
 
     public string Woonplaats { get; set; }
-
-    public double Salaris { get; set; }
-
-
-    public double BerekenSalaris()
-    {
-        // Een vrijwilliger krijgt geen salaris!
-        throw new NotImplementedException();
-    }
 }

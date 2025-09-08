@@ -10,8 +10,7 @@ var medewerkers = new List<IMedewerker>
 {
     new Directeur("Klaas", "Almere", 8000),
     new Vertegenwoordiger("Peter", "Dronten", 9000),
-    new Schoonmaker("Freek", "Kampen", 2500),
-    new Vrijwilliger("Janneke", "Zwolle")
+    new Schoonmaker("Freek", "Kampen", 2500),  
 };
 
 foreach (var medewerker in medewerkers)

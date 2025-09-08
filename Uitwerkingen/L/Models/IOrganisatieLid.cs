@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace L.Models;
 
-public interface IMedewerker : IOrganisatieLid
+public interface IOrganisatieLid
 {
-    double Salaris { get; }
+    string Naam { get; }
 
-    double BerekenSalaris();
+    string Woonplaats { get; }
 }
