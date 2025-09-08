@@ -1,0 +1,1 @@
+Dit zijn mogelijke uitwerkingen van de oefeningen. Er zijn natuurlijk altijd verschillende oplossingen voor een probleem. 

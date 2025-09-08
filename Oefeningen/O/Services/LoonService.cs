@@ -4,39 +4,29 @@ namespace O.Services;
 
 public class LoonService
 {
-    public void BetaalLoon(Medewerker medewerker, string betaalWijze)
+    public string BetaalLoon(Medewerker medewerker)
     {
-        var vakantiegeld = BerekenVakantieGeld(medewerker.Salaris);
-        var totaalSalaris = medewerker.Salaris + vakantiegeld;
+        if (medewerker.VoorkeursBetaalwijze == "bank")
+        {
+            return $"{medewerker.Naam} krijgt {medewerker.Salaris} loon via de bank.";
+        }
+        else if (medewerker.VoorkeursBetaalwijze == "zwart")
+        {
+            var belastingKorting = medewerker.Salaris * 0.3;
+            return $"{medewerker.Naam} krijgt {medewerker.Salaris + belastingKorting} zwart loon.";
+        }
+        else if (medewerker.VoorkeursBetaalwijze == "bitcoin")
+        {
+            var aantalBitcoins = medewerker.Salaris / GetBitcoinKoers();
+            return $"{medewerker.Naam} krijgt {aantalBitcoins} bitcoins."; 
+        }
 
-        if (betaalWijze == "bank")
-        {
-            Console.WriteLine($"{medewerker.Naam} krijgt {totaalSalaris} loon via de bank.");
-        }
-        else if (betaalWijze == "zwart")
-        {
-            var ontdokenBelasting = totaalSalaris * 0.38;
-            Console.WriteLine($"{medewerker.Naam} krijgt {totaalSalaris + ontdokenBelasting} zwart loon.");
-        }
-        else if (betaalWijze == "bitcoin")
-        {
-            var aantalBitcoins = totaalSalaris / GetBitcoinKoers();
-            Console.WriteLine($"{medewerker.Naam} krijgt {aantalBitcoins} bitcoins.");
-        }
+        throw new ArgumentException($"{medewerker.VoorkeursBetaalwijze} is niet mogelijk");
     }
 
     private double GetBitcoinKoers()
     {
         var random = new Random();
         return random.Next(10000, 100000);
-    }
-
-    private double BerekenVakantieGeld(double salaris)
-    {
-        if (DateTime.Now.Month == 5)
-        {
-            return salaris * 0.8;
-        }
-        return 0;
     }
 }
