@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\services\\medewerkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\services\\medewerkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\services\\betalingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\services\\betalingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\interfaces\\iorganisatielid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\interfaces\\iorganisatielid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\interfaces\\ikrijgtdertiendemaand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\interfaces\\ikrijgtdertiendemaand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\schoonmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\schoonmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\vrijwilliger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\vrijwilliger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\interfaces\\ikrijgtsalaris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\interfaces\\ikrijgtsalaris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\uitwerkingen\\i\\models\\interfaces\\ikrijgtbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\interfaces\\ikrijgtbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedewerkerService.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Services\\MedewerkerService.cs",
+              "RelativeDocumentMoniker": "I\\Services\\MedewerkerService.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Services\\MedewerkerService.cs",
+              "RelativeToolTip": "I\\Services\\MedewerkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:52:02.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BetalingsService.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Services\\BetalingsService.cs",
+              "RelativeDocumentMoniker": "I\\Services\\BetalingsService.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Services\\BetalingsService.cs",
+              "RelativeToolTip": "I\\Services\\BetalingsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:49:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vrijwilliger.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Vrijwilliger.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Vrijwilliger.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Vrijwilliger.cs",
+              "RelativeToolTip": "I\\Models\\Vrijwilliger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:45:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Schoonmaker.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Schoonmaker.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Schoonmaker.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Schoonmaker.cs",
+              "RelativeToolTip": "I\\Models\\Schoonmaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:44:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IKrijgtDertiendeMaand.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtDertiendeMaand.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Interfaces\\IKrijgtDertiendeMaand.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtDertiendeMaand.cs",
+              "RelativeToolTip": "I\\Models\\Interfaces\\IKrijgtDertiendeMaand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:43:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrganisatielid.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IOrganisatielid.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Interfaces\\IOrganisatielid.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IOrganisatielid.cs",
+              "RelativeToolTip": "I\\Models\\Interfaces\\IOrganisatielid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Directeur.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Directeur.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Directeur.cs",
+              "RelativeToolTip": "I\\Models\\Directeur.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:55.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKrijgtBonus.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtBonus.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Interfaces\\IKrijgtBonus.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtBonus.cs",
+              "RelativeToolTip": "I\\Models\\Interfaces\\IKrijgtBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IKrijgtSalaris.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtSalaris.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Interfaces\\IKrijgtSalaris.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Models\\Interfaces\\IKrijgtSalaris.cs",
+              "RelativeToolTip": "I\\Models\\Interfaces\\IKrijgtSalaris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:18.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Program.cs",
+              "RelativeDocumentMoniker": "I\\Program.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Uitwerkingen\\I\\Program.cs",
+              "RelativeToolTip": "I\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:41:56.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

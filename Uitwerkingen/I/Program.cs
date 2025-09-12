@@ -1,17 +1,25 @@
 ﻿using I.Models;
+using I.Services;
 
-/// In dit project gaat het om het interface segregation principle
-/// 
-/// OPDRACHT: 
-/// 
-/// Herschrijf de code zo dat je voldoet aan dit principe. 
+var betalingsService = new BetalingsService();
+var medewerkerService = new MedewerkerService();
 
-IDrieInEenPrinter nieuwePrinter = new NieuwePrinter();
+var directeur = new Directeur("Klaas", "Kampen", 5000);
+var schoonmaker = new Schoonmaker("Piet", "Almere", 2000);
+var vrijwilliger = new Vrijwilliger("Jan", "Amsterdam");
 
-nieuwePrinter.Scan("Foto.jpg");
-nieuwePrinter.Print("Foto.jpg");
-nieuwePrinter.Kopieer("Foto.jpg");
+Console.WriteLine("************  Verwerk directeur ************");
+medewerkerService.StuurKaartje(directeur);
+betalingsService.BetaalSalaris(directeur);
+betalingsService.BetaalBonus(directeur);
+betalingsService.BetaalDertiendeMaand(directeur);
 
-IPrinter oudePrinter = new OudePrinter();
+Console.WriteLine("\n************  Verwerk schoonmaker ************");
+medewerkerService.StuurKaartje(schoonmaker);
+betalingsService.BetaalSalaris(schoonmaker);
 
-oudePrinter.Print("Foto.jpg");
+
+Console.WriteLine("\n************ Verwerk vrijwilliger ************");
+medewerkerService.StuurKaartje(vrijwilliger);
+
+Console.WriteLine();

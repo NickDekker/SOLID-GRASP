@@ -16,15 +16,5 @@ public class Medewerker
 
     public double Salaris { get; private set; }
 
-    public string VoorkeursBetaalwijze { get; private set; }
-
-    public void UpdateWoonplaats(string nieuweWoonplaats)
-    {
-        Woonplaats = nieuweWoonplaats;
-    }
-
-    public void UpdateWoonplaats(double nieuwSalaris)
-    {
-        Salaris = nieuwSalaris;
-    }
+    public string VoorkeursBetaalwijze { get; private set; }   
 }

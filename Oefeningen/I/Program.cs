@@ -1,4 +1,6 @@
 ﻿using I.Models;
+using I.Models.Interfaces;
+using I.Services;
 
 /// In dit project gaat het om het interface segregation principle
 /// 
@@ -6,14 +8,26 @@
 /// 
 /// Herschrijf de code zo dat je voldoet aan dit principe. 
 
-IMachine nieuwePrinter = new NieuwePrinter();
 
-nieuwePrinter.Scan("Foto.jpg");
-nieuwePrinter.Print("Foto.jpg");
-nieuwePrinter.Kopieer("Foto.jpg");
+var betalingsService = new BetalingsService();
+var medewerkerService = new MedewerkerService();
 
-IMachine oudePrinter = new OudePrinter();
+IMedewerker directeur = new Directeur("Klaas", "Kampen", 5000);
+IMedewerker schoonmaker = new Schoonmaker("Piet", "Almere", 2000);
+IMedewerker vrijwilliger = new Vrijwilliger("Jan", "Amsterdam", 0);
 
-oudePrinter.Print("Foto.jpg");
-oudePrinter.Scan("Foto.jpg");
-oudePrinter.Kopieer("Foto.jpg");
+Console.WriteLine("************  Verwerk directeur ************");
+medewerkerService.StuurKaartje(directeur);
+betalingsService.BetaalSalaris(directeur);
+betalingsService.BetaalBonus(directeur);
+betalingsService.BetaalDertiendeMaand(directeur);
+
+Console.WriteLine("\n************  Verwerk schoonmaker ************");
+medewerkerService.StuurKaartje(schoonmaker);
+betalingsService.BetaalSalaris(schoonmaker);
+
+
+Console.WriteLine("\n************ Verwerk vrijwilliger ************");
+medewerkerService.StuurKaartje(vrijwilliger);
+
+Console.WriteLine();

@@ -8,11 +8,4 @@ using S.Models;
 var jan = new Medewerker("Jan", "Kampen", 5000);
 jan.BetaalLoon();
 
-Console.ReadLine(); 
-
-
-
-
-
-
-
+Console.ReadLine();
