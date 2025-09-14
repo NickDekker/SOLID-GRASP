@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\oefeningen\\s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|solutionrelative:s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\oefeningen\\i\\models\\interfaces\\imedewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C6A1A34-1D17-493B-9238-59C7090027BF}|I\\I.csproj|solutionrelative:i\\models\\interfaces\\imedewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\oefeningen\\s\\models\\medewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|solutionrelative:s\\models\\medewerker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|c:\\users\\dekkerni\\desktop\\solid-grasp\\oefeningen\\s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28A78D00-7D20-4663-87C8-55D1721C9D8B}|S\\S.csproj|solutionrelative:s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,46 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MedewerkerService.cs",
-              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\MedewerkerService.cs",
-              "RelativeDocumentMoniker": "I\\Services\\MedewerkerService.cs",
-              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\MedewerkerService.cs",
-              "RelativeToolTip": "I\\Services\\MedewerkerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T13:05:04.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BetalingsService.cs",
-              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\BetalingsService.cs",
-              "RelativeDocumentMoniker": "I\\Services\\BetalingsService.cs",
-              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\BetalingsService.cs",
-              "RelativeToolTip": "I\\Services\\BetalingsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T13:04:21.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vrijwilliger.cs",
-              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Vrijwilliger.cs",
-              "RelativeDocumentMoniker": "I\\Models\\Vrijwilliger.cs",
-              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Vrijwilliger.cs",
-              "RelativeToolTip": "I\\Models\\Vrijwilliger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:36:08.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Schoonmaker.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Schoonmaker.cs",
               "RelativeDocumentMoniker": "I\\Models\\Schoonmaker.cs",
@@ -229,12 +190,11 @@
               "RelativeToolTip": "I\\Models\\Schoonmaker.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:35:06.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T12:35:06.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Directeur.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Directeur.cs",
               "RelativeDocumentMoniker": "I\\Models\\Directeur.cs",
@@ -242,25 +202,24 @@
               "RelativeToolTip": "I\\Models\\Directeur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:31:23.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T12:31:23.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IMedewerker.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Interfaces\\IMedewerker.cs",
               "RelativeDocumentMoniker": "I\\Models\\Interfaces\\IMedewerker.cs",
               "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Interfaces\\IMedewerker.cs",
               "RelativeToolTip": "I\\Models\\Interfaces\\IMedewerker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T12:26:21.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DocumentService.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\Services\\DocumentService.cs",
               "RelativeDocumentMoniker": "L\\Services\\DocumentService.cs",
@@ -272,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IDrieInEenPrinter.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\Models\\IDrieInEenPrinter.cs",
               "RelativeDocumentMoniker": "L\\Models\\IDrieInEenPrinter.cs",
@@ -284,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NieuwePrinter.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\Models\\NieuwePrinter.cs",
               "RelativeDocumentMoniker": "L\\Models\\NieuwePrinter.cs",
@@ -296,7 +255,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\S\\Program.cs",
+              "RelativeDocumentMoniker": "S\\Program.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\S\\Program.cs",
+              "RelativeToolTip": "S\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:10:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vrijwilliger.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Vrijwilliger.cs",
+              "RelativeDocumentMoniker": "I\\Models\\Vrijwilliger.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Models\\Vrijwilliger.cs",
+              "RelativeToolTip": "I\\Models\\Vrijwilliger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:36:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "OudePrinter.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\Models\\OudePrinter.cs",
               "RelativeDocumentMoniker": "L\\Models\\OudePrinter.cs",
@@ -308,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\D\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "D\\Repositories\\UserRepository.cs",
@@ -320,7 +304,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
+              "Title": "BetalingsService.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\BetalingsService.cs",
+              "RelativeDocumentMoniker": "I\\Services\\BetalingsService.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\BetalingsService.cs",
+              "RelativeToolTip": "I\\Services\\BetalingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:04:21.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\D\\Program.cs",
               "RelativeDocumentMoniker": "D\\Program.cs",
@@ -332,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Program.cs",
               "RelativeDocumentMoniker": "I\\Program.cs",
@@ -340,12 +336,11 @@
               "RelativeToolTip": "I\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:15:03.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T12:15:03.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "L.csproj",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\L.csproj",
               "RelativeDocumentMoniker": "L\\L.csproj",
@@ -357,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\L\\Program.cs",
               "RelativeDocumentMoniker": "L\\Program.cs",
@@ -369,7 +364,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "MedewerkerService.cs",
+              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\MedewerkerService.cs",
+              "RelativeDocumentMoniker": "I\\Services\\MedewerkerService.cs",
+              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\I\\Services\\MedewerkerService.cs",
+              "RelativeToolTip": "I\\Services\\MedewerkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:05:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LoonService.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\O\\Services\\LoonService.cs",
               "RelativeDocumentMoniker": "O\\Services\\LoonService.cs",
@@ -381,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Medewerker.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\O\\Models\\Medewerker.cs",
               "RelativeDocumentMoniker": "O\\Models\\Medewerker.cs",
@@ -393,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\O\\Program.cs",
               "RelativeDocumentMoniker": "O\\Program.cs",
@@ -405,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Medewerker.cs",
               "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\S\\Models\\Medewerker.cs",
               "RelativeDocumentMoniker": "S\\Models\\Medewerker.cs",
@@ -414,18 +421,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T12:10:24.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\S\\Program.cs",
-              "RelativeDocumentMoniker": "S\\Program.cs",
-              "ToolTip": "C:\\Users\\DEKKERNI\\Desktop\\SOLID-GRASP\\Oefeningen\\S\\Program.cs",
-              "RelativeToolTip": "S\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T12:10:08.766Z"
             }
           ]
         }
