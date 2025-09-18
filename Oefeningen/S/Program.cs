@@ -1,5 +1,4 @@
-﻿using S;
-using S.Models;
+﻿using S.Models;
 
 /// In dit project gaat het om het Single responsibility principle (SRP).
 /// 
