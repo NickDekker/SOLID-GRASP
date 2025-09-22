@@ -1,0 +1,11 @@
+Order Processor: https://shorturl.at/o3vxf
+(github.com/dotnet/eShop/tree/main/src/OrderProcessor) 
+
+Online Store: https://shorturl.at/gNAmE 
+(github.com/lineyk27/OnlineStore/tree/master/OnlineStore)
+
+Store App: https://shorturl.at/rCWZ5 
+(github.com/birkankaraer/StoreApp)
+
+Smart Store: https://shorturl.at/1HS7n 
+(github.com/smartstore/Smartstore/tree/main/src) 
